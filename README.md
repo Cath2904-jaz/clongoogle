@@ -3,7 +3,7 @@
 ## Índice
 
 * [1.Introducción](https://github.com/Cath2904-jaz/clongoogle/blob/main/README.md#1intro)
-*  [2. Qué contruíhttps://github.com/Cath2904-jaz/clongoogle/blob/main/README.md#)
+*  [2. Qué contruí](https://github.com/Cath2904-jaz/clongoogle/blob/main/README.md#)
 *   [3. Objetivo del proyecto](#)
 
 ****
