@@ -4,7 +4,7 @@
 
 * [☀ 1. Intro](https://github.com/Cath2904-jaz/clongoogle/blob/main/README.md#1intro)
 *  [☀ 2. Qué contruí](https://github.com/Cath2904-jaz/clongoogle/blob/main/README.md#)
-*   [☀ 3. Objetivo del proyecto](https://github.com/Cath2904-jaz/clongoogle/blob/main/README.md#)
+*   [☀ 3. Objetivo del proyecto](https://github.com/Cath2904-jaz/clongoogle/blob/main/README.md#3-objetivos-del-proyecto)
 
 ##  1. Intro
 HTML5 trabaja de la mano con CSS3 para crear páginas web que usamos todos los días en el navegador. Incluso este sitio web en donde estás viendo este contenido está construido con HTML y CSS.
