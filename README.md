@@ -2,7 +2,7 @@
 
 ## Índice
 
-* [☀ 1. Intro](https://github.com/Cath2904-jaz/clongoogle/blob/main/README.md#1intro)
+* [☀ 1. Intro](https://github.com/Cath2904-jaz/clongoogle/blob/main/README.md#1-intro)
 *  [☀ 2. Qué contruí](https://github.com/Cath2904-jaz/clongoogle/blob/main/README.md#2-qu%C3%A9-contru%C3%AD)
 *   [☀ 3. Objetivo del proyecto](https://github.com/Cath2904-jaz/clongoogle/blob/main/README.md#3-objetivos-del-proyecto)
 
